@@ -12,7 +12,7 @@ var _ = require('lodash');
 var _data = [
 	{
 		author:'Sam McCord',
-		text: '#staydrunk'
+		text: 'You cannot make a revolution with silk gloves'
 	},
 	{
 		author:'Mr. Earl',

@@ -6,11 +6,14 @@
 
 Clone and `cd` into it
 
-Run `npm install`, `gulp`, and `gulp watch`
+Run `npm install`, `gulp`, and `gulp watch` for automatic compilation.
 
 ## Prerequisites
 
 * Node
 * NPM
 
-###That's it! Have fun.
+###That's it.
+Start in /src/js/main, and follow the requires until you become a React+Flux pro.
+
+####Have fun!
